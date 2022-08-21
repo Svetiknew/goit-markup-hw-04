@@ -128,11 +128,7 @@ body {
 }
 
 .page-one {
-    padding: 200px 0;
     background: #2F303A;
-    text-align: center;
-    margin-right: auto;
-    margin-left: auto;
     outline: 1px solid black;
     background-image: linear-gradient
     rgba(47, 48, 58, 0.4), 
@@ -141,6 +137,10 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    padding: 200px 0;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .page-one-text {
