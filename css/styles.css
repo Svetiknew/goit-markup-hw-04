@@ -108,6 +108,12 @@ body {
     color: var(--fourth-title-color);
 }
 
+.header-mail-icons,
+.header-tel-icons {
+    margin-right: 10px;
+    fill: currentColor;
+}
+
 .header-contacts-item:not(:last-child) {
     margin-right: 50px;
 }
