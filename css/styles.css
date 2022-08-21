@@ -130,10 +130,8 @@ body {
 .page-one {
     outline: 1px solid black;
     background-color: #2F303A;
-    background-image: linear-gradient (to right
-    rgba(47, 48, 58, 0.4),
-    rgba(47, 48, 58, 0.4)),
-    url("../image/office.jpg");
+    background-image: linear-gradient(to right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
+    url(../image/office.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
