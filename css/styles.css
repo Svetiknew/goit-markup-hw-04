@@ -98,16 +98,22 @@ body {
 .header-contacts {
     display: flex;
     margin-left: auto;
+    justify-content: center;
 }
 
 .header-mail,
 .header-tel {
     display: flex;
+    align-items: baseline;
+    height: 16px;
     font-weight: 500;
     font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.02em;
     color: var(--fourth-title-color);
+    padding-top: 32px;
+    padding-bottom: 32px;
+    margin-left: 0;
 }
 
 .header-mail-icons,
