@@ -198,10 +198,6 @@ body {
     background-color: var(--first-bg-color);
 }
 
-.icon-idea::before {
-    background-image: url("./image/tarelka.svg");
-}
-
 .our-features-item {
     justify-content: space-around;
     width: 270px;
@@ -211,13 +207,16 @@ body {
 .our-features-item::before {
     display: block;
     content: "";
-    width: 270px;
     height: 120px;
     background-size: contain
     background-repeat: no repeat;
     background-position: center;
-    background: #F5F4FA;
+    background-color: #F5F4FA;
     border-radius: 4px
+}
+
+.icon-idea::before {
+    background-image: url("./image/tarelka.svg");
 }
 
 .feature {
