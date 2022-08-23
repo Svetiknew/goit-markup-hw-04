@@ -228,7 +228,7 @@ body {
     background-image: url("../image/comp.svg");
 }
 
-.icon-comp::before {
+.icon-astronaut::before {
     background-image: url("../image/astronaut\ 1.svg");
 }
 
