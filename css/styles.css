@@ -216,7 +216,7 @@ body {
 }
 
 .icon-idea::before {
-    background-image: url("./image/tarelka.svg");
+    background-image: url("../image/tarelka.svg");
 }
 
 .feature {
