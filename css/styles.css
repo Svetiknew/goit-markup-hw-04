@@ -207,7 +207,8 @@ body {
 .our-features-item::before {
     display: block;
     content: "";
-    width: 70px;
+    height: 120px;
+    width: 270px;
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
