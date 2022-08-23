@@ -216,7 +216,8 @@ body {
     background-size: contain
     background-repeat: no repeat;
     background-position: center;
-    background-color: #ccc;
+    background: #F5F4FA;
+    border-radius: 4px
 }
 
 .feature {
